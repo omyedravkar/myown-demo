@@ -1,2 +1,2 @@
 # myown-demo
-this  is my first git respo
+this  is my first git repo
